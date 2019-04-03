@@ -5,7 +5,7 @@ Ir interesants veids, kā cilvēki varēs parbaudīt cik augstu viņi var uzlket
 Būs iespēja uzstādīt jaunu skolas rekordu un viss labākais lecējs saņems balvu.
 ## Saturs
 
-## Instilēšana
+## Instalēšana
 
-## Lietošanas insturkcija 
+## Lietošanas instrukcija
 Nostājies blakus sensoram un lec, pārbaudi savas lekšanas prasmes.
