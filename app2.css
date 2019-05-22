@@ -1,0 +1,43 @@
+body, html, #container {
+    height: 100%;
+}*
+
+{
+    margin: 0;
+    padding: 0;
+}
+html, body{
+    height:100;
+}
+body{
+    background: url(bg.jpg) no-repeat ;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    word-spacing: 220px;
+}
+.container{
+    widows: 600px; 
+    margin: 0 auto;
+    text-align: center;
+}
+h1{
+    color: black;
+    font: 900 96px 'Neuton', serif; 
+    margin-bottom: 30px;
+}
+a{
+    color: aliceblue;
+    font: 30px 'Neuton', serif; 
+    margin-bottom: 30px;
+}
+a {
+    text-decoration: none;
+    }
+h1{
+
+        text-shadow: 3px 2px black;
+     }
+     a{
+         color: black;
+     }

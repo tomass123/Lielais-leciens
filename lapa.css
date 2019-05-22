@@ -1,0 +1,30 @@
+body, html, #container {
+    height: 100%;
+}*
+{
+    margin: 0;
+    padding: 0;
+}
+html, body{
+    height:100;
+}
+body{
+    background: url(11.jpg) no-repeat ;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.container{
+    widows: 600px; 
+    margin: 0 auto;
+    text-align: center;
+}
+h1{
+    color:#FFFF;
+    font: 900 96px 'Neuton', serif; 
+    margin-bottom: 50px;
+}
+a{
+    color: #FFFF
+}
